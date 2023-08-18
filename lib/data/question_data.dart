@@ -22,7 +22,7 @@ const questiondata = [
     Questions(
       "What does the acronym OOP stand for in programming?",
       [
-        "Object-Oriented Programming,"
+        "Object-Oriented Programming",
         "Outstanding Object Programming",
         "Overly Obfuscated Programming",
         "Object Overload Protocol"
